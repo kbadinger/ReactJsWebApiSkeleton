@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{761A1DA4-E77A-4EC1-BD59-57E7B201AEA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvWeb/Program.cs">
+    <Files>
+      <File FileName="AdvWeb/Models/AuthenticationResponse.cs" Line="1" Column="1" />
+      <File FileName="AdvWeb/Program.cs" Line="1" Column="1" />
+      <File FileName="AdvWeb/Entities/User.cs" Line="1" Column="1" />
+      <File FileName="AdvWeb/Models/Applicant.cs" Line="1" Column="1" />
+      <File FileName="AdvWeb/Controllers/ApplicantCandidateController.cs" Line="35" Column="25" />
+      <File FileName="AdvWeb/Controllers/AuthenticateController.cs" Line="31" Column="9" />
+      <File FileName="AdvWeb/Controllers/RegisterController.cs" Line="27" Column="10" />
+      <File FileName="AdvWeb/Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="AdvWeb/Models/AuthenticationRequest.cs" Line="1" Column="1" />
+      <File FileName="AdvWeb/Controllers/StartHere.cs" Line="23" Column="46" />
+      <File FileName="AdvWeb/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="AdvWeb/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvWeb" expanded="True">
+            <Node name="AdvWeb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccessLayer" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AdvWeb PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kevinbadinger/SoftwareProjects/github/ReactWebApiFramework/WebApi/AdvWeb/Services/JwtMiddleware.cs" relfile="AdvWeb/Services/JwtMiddleware.cs" line="40" column="1" />
+      <Breakpoint file="/Users/kevinbadinger/SoftwareProjects/github/ReactWebApiFramework/WebApi/AdvWeb/Controllers/DataListController.cs" relfile="AdvWeb/Controllers/DataListController.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
